@@ -16,7 +16,7 @@ Los patrones pueden clasificarse según su proposito:
 *Proveen diferentes formas de crear objetos*
 - Abstract Factory
 - Builder
-- Factory Method
+- [Factory Method](https://github.com/nbordon/PatronesGOF/tree/master/PatronesGOF.FactoryMethod)
 - Prototype
 - [Singleton](https://github.com/nbordon/PatronesGOF/tree/master/PatronesGOF.Singleton)
 
