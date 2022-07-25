@@ -14,7 +14,7 @@ Los patrones pueden clasificarse según su proposito:
 
 ### Patrones Creacionales
 *Proveen diferentes formas de crear objetos*
-- Abstract Factory
+- [Abstract Factory](https://github.com/nbordon/PatronesGOF/tree/master/PatronesGOF.AbstractFactory)
 - Builder
 - [Factory Method](https://github.com/nbordon/PatronesGOF/tree/master/PatronesGOF.FactoryMethod)
 - Prototype
