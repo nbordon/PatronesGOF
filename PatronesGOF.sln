@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatronesGOF.FactoryMethod",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatronesGOF.AbstractFactory", "PatronesGOF.AbstractFactory\PatronesGOF.AbstractFactory.csproj", "{FC7A3D4A-BE79-4190-90D1-8267CD1F72A9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatronesGOF.Prototype", "PatronesGOF.Prototype\PatronesGOF.Prototype.csproj", "{7EA892E9-E0C0-45A4-BF7B-A2BCD5451011}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{FC7A3D4A-BE79-4190-90D1-8267CD1F72A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC7A3D4A-BE79-4190-90D1-8267CD1F72A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC7A3D4A-BE79-4190-90D1-8267CD1F72A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EA892E9-E0C0-45A4-BF7B-A2BCD5451011}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EA892E9-E0C0-45A4-BF7B-A2BCD5451011}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EA892E9-E0C0-45A4-BF7B-A2BCD5451011}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EA892E9-E0C0-45A4-BF7B-A2BCD5451011}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

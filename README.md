@@ -17,7 +17,7 @@ Los patrones pueden clasificarse según su proposito:
 - [Abstract Factory](https://github.com/nbordon/PatronesGOF/tree/master/PatronesGOF.AbstractFactory)
 - Builder
 - [Factory Method](https://github.com/nbordon/PatronesGOF/tree/master/PatronesGOF.FactoryMethod)
-- Prototype
+- [Prototype](https://github.com/nbordon/PatronesGOF/tree/master/PatronesGOF.Prototype)
 - [Singleton](https://github.com/nbordon/PatronesGOF/tree/master/PatronesGOF.Singleton)
 
 ### Patrones Estructurales
