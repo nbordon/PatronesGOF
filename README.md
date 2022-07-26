@@ -25,7 +25,7 @@ Los patrones pueden clasificarse según su proposito:
 - Adapter
 - Bridge
 - Composite
-- Facade
+- [Facade](https://github.com/nbordon/PatronesGOF/tree/master/PatronesGOF.Facade)
 - Flyweight
 - Proxy
 - Decorator
