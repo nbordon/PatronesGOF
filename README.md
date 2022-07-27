@@ -28,7 +28,7 @@ Los patrones pueden clasificarse según su proposito:
 - [Facade](https://github.com/nbordon/PatronesGOF/tree/master/PatronesGOF.Facade)
 - Flyweight
 - Proxy
-- Decorator
+- [Decorator](https://github.com/nbordon/PatronesGOF/tree/master/PatronesGOF.Decorator)
 
 ### Patrones de Comportamiento
 *Gestionan algoritmos y responsabilidades entre objetos*
