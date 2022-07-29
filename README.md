@@ -33,7 +33,8 @@ Los patrones pueden clasificarse según su proposito:
 ### Patrones de Comportamiento
 *Gestionan algoritmos y responsabilidades entre objetos*
 - Chain Of Responsability
-- Command
+- [Command]
+(https://github.com/nbordon/PatronesGOF/tree/master/PatronesGOF.Command)
 - Interpreter
 - Iterator
 - Mediator
