@@ -27,7 +27,7 @@ Los patrones pueden clasificarse según su proposito:
 - Composite
 - [Facade](https://github.com/nbordon/PatronesGOF/tree/master/PatronesGOF.Facade)
 - Flyweight
-- Proxy
+- [Proxy](https://github.com/nbordon/PatronesGOF/tree/master/PatronesGOF.Proxy)
 - [Decorator](https://github.com/nbordon/PatronesGOF/tree/master/PatronesGOF.Decorator)
 
 ### Patrones de Comportamiento

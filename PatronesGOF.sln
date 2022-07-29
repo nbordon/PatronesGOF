@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatronesGOF.Facade", "Patro
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatronesGOF.Decorator", "PatronesGOF.Decorator\PatronesGOF.Decorator.csproj", "{2D0119F4-6AE0-4CA5-B89B-A5DA98807A8A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatronesGOF.Proxy", "PatronesGOF.Proxy\PatronesGOF.Proxy.csproj", "{6FFE89BC-21C1-43D2-9EA8-E219C61A4DC0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{2D0119F4-6AE0-4CA5-B89B-A5DA98807A8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2D0119F4-6AE0-4CA5-B89B-A5DA98807A8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2D0119F4-6AE0-4CA5-B89B-A5DA98807A8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FFE89BC-21C1-43D2-9EA8-E219C61A4DC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FFE89BC-21C1-43D2-9EA8-E219C61A4DC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FFE89BC-21C1-43D2-9EA8-E219C61A4DC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FFE89BC-21C1-43D2-9EA8-E219C61A4DC0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
