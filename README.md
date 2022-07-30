@@ -37,7 +37,7 @@ Los patrones pueden clasificarse según su proposito:
 - Interpreter
 - Iterator
 - Mediator
-- Memento
+- [Memento](https://github.com/nbordon/PatronesGOF/tree/master/PatronesGOF.Command)
 - Observer
 - State
 - Strategy
