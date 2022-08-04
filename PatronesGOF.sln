@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatronesGOF.Builder", "Patr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatronesGOF.Adapter", "PatronesGOF.Adapter\PatronesGOF.Adapter.csproj", "{40F4E86F-F493-4E2C-8F01-330CFCF9CEDA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatronesGOF.Composite", "PatronesGOF.Composite\PatronesGOF.Composite.csproj", "{79355303-4942-4B92-9941-BB39E1236819}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{40F4E86F-F493-4E2C-8F01-330CFCF9CEDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{40F4E86F-F493-4E2C-8F01-330CFCF9CEDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{40F4E86F-F493-4E2C-8F01-330CFCF9CEDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79355303-4942-4B92-9941-BB39E1236819}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79355303-4942-4B92-9941-BB39E1236819}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79355303-4942-4B92-9941-BB39E1236819}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79355303-4942-4B92-9941-BB39E1236819}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

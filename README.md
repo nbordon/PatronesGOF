@@ -24,7 +24,7 @@ Los patrones pueden clasificarse según su proposito:
 *Describen formas de componer objetos para formar nuevas estructuras flexibles y eficientes*
 - [Adapter](https://github.com/nbordon/PatronesGOF/tree/master/PatronesGOF.Adapter)
 - Bridge
-- Composite
+- [Composite](https://github.com/nbordon/PatronesGOF/tree/master/PatronesGOF.Composite)
 - [Facade](https://github.com/nbordon/PatronesGOF/tree/master/PatronesGOF.Facade)
 - Flyweight
 - [Proxy](https://github.com/nbordon/PatronesGOF/tree/master/PatronesGOF.Proxy)
