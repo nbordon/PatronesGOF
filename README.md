@@ -22,7 +22,7 @@ Los patrones pueden clasificarse según su proposito:
 
 ### Patrones Estructurales
 *Describen formas de componer objetos para formar nuevas estructuras flexibles y eficientes*
-- Adapter
+- [Adapter](https://github.com/nbordon/PatronesGOF/tree/master/PatronesGOF.Adapter)
 - Bridge
 - Composite
 - [Facade](https://github.com/nbordon/PatronesGOF/tree/master/PatronesGOF.Facade)
