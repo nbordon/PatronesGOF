@@ -40,6 +40,6 @@ Los patrones pueden clasificarse según su proposito:
 - [Memento](https://github.com/nbordon/PatronesGOF/tree/master/PatronesGOF.Memento)
 - [Observer](https://github.com/nbordon/PatronesGOF/tree/master/PatronesGOF.Observer)
 - State
-- Strategy
+- [Strategy](https://github.com/nbordon/PatronesGOF/tree/master/PatronesGOF.Strategy)
 - Template Method
 - Visitor
