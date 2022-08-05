@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatronesGOF.Adapter", "Patr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatronesGOF.Composite", "PatronesGOF.Composite\PatronesGOF.Composite.csproj", "{79355303-4942-4B92-9941-BB39E1236819}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatronesGOF.ChainOfResponsability", "PatronesGOF.ChainOfResponsability\PatronesGOF.ChainOfResponsability.csproj", "{D5665E14-A1B6-4A28-9F30-B2DB476C7AD2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{79355303-4942-4B92-9941-BB39E1236819}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{79355303-4942-4B92-9941-BB39E1236819}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{79355303-4942-4B92-9941-BB39E1236819}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5665E14-A1B6-4A28-9F30-B2DB476C7AD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5665E14-A1B6-4A28-9F30-B2DB476C7AD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5665E14-A1B6-4A28-9F30-B2DB476C7AD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5665E14-A1B6-4A28-9F30-B2DB476C7AD2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

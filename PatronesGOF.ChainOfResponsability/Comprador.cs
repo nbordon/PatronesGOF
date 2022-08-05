@@ -1,0 +1,20 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace PatronesGOF.ChainOfResponsability
+{
+    public class Comprador : Aprobador
+    {
+        // Métodos
+        public override void Procesar(Compra c)
+        {
+            if (c.Importe < 100)
+                Console.WriteLine($"Compra aprobada por el {this.GetType().Name}");
+            else
+                _siguiente.Procesar(c);
+        }
+    }
+}
