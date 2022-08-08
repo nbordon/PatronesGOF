@@ -39,7 +39,7 @@ Los patrones pueden clasificarse según su proposito:
 - [Mediator](https://github.com/nbordon/PatronesGOF/tree/master/PatronesGOF.Mediator)
 - [Memento](https://github.com/nbordon/PatronesGOF/tree/master/PatronesGOF.Memento)
 - [Observer](https://github.com/nbordon/PatronesGOF/tree/master/PatronesGOF.Observer)
-- State
+- [State](https://github.com/nbordon/PatronesGOF/tree/master/PatronesGOF.State)
 - [Strategy](https://github.com/nbordon/PatronesGOF/tree/master/PatronesGOF.Strategy)
 - Template Method
 - Visitor
