@@ -36,7 +36,7 @@ Los patrones pueden clasificarse según su proposito:
 - [Command](https://github.com/nbordon/PatronesGOF/tree/master/PatronesGOF.Command)
 - [Interpreter](https://github.com/nbordon/PatronesGOF/tree/master/PatronesGOF.Interpreter)
 - [Iterator](https://github.com/nbordon/PatronesGOF/tree/master/PatronesGOF.Iterator)
-- Mediator
+- [Mediator](https://github.com/nbordon/PatronesGOF/tree/master/PatronesGOF.Mediator)
 - [Memento](https://github.com/nbordon/PatronesGOF/tree/master/PatronesGOF.Memento)
 - [Observer](https://github.com/nbordon/PatronesGOF/tree/master/PatronesGOF.Observer)
 - State
