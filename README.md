@@ -41,5 +41,5 @@ Los patrones pueden clasificarse según su proposito:
 - [Observer](https://github.com/nbordon/PatronesGOF/tree/master/PatronesGOF.Observer)
 - [State](https://github.com/nbordon/PatronesGOF/tree/master/PatronesGOF.State)
 - [Strategy](https://github.com/nbordon/PatronesGOF/tree/master/PatronesGOF.Strategy)
-- Template Method
+- [Template Method](https://github.com/nbordon/PatronesGOF/tree/master/PatronesGOF.TemplateMethod)
 - Visitor

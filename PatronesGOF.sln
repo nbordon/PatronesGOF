@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatronesGOF.Mediator", "Pat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatronesGOF.State", "PatronesGOF.State\PatronesGOF.State.csproj", "{CFC96DC6-95D9-419C-AB1E-3DCBD366048B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatronesGOF.TemplateMethod", "PatronesGOF.TemplateMethod\PatronesGOF.TemplateMethod.csproj", "{23F3FF37-8EE9-48E6-B283-123B0466D70C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{CFC96DC6-95D9-419C-AB1E-3DCBD366048B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CFC96DC6-95D9-419C-AB1E-3DCBD366048B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CFC96DC6-95D9-419C-AB1E-3DCBD366048B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23F3FF37-8EE9-48E6-B283-123B0466D70C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23F3FF37-8EE9-48E6-B283-123B0466D70C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23F3FF37-8EE9-48E6-B283-123B0466D70C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23F3FF37-8EE9-48E6-B283-123B0466D70C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
