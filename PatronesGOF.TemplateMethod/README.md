@@ -1,21 +1,21 @@
-# Patr髇 Template Method
+# Patr贸n Template Method
 
-## Prop髎ito
-- Define en una operaci髇 el esqueleto de un algoritmo, delegando en las subclases algunos de sus pasos. Permite que las subclases redefinan ciertos pasos de un algoritmo sin cambiar la estructura.
+## Prop贸sito
+- Define en una operaci贸n el esqueleto de un algoritmo, delegando en las subclases algunos de sus pasos. Permite que las subclases redefinan ciertos pasos de un algoritmo sin cambiar la estructura.
 
 ## Aplicabilidad
 - Para implementar las partes de un algoritmo que no cambia y dejar que sean las subclases quienes implementen el comportamiento que puede variar.
-- Cuando el comportamiento repetido de varias subclases deber韆 refactorizarse y ser localizado en una clase com鷑 para evitar c骴igo duplicado.
+- Cuando el comportamiento repetido de varias subclases deber铆a refactorizarse y ser localizado en una clase com煤n para evitar c贸digo duplicado.
 - Para controlar las extensiones de las subclases.
 
 ## Consecuencias
-- Los m閠odos plantilla son una t閏nica fundamental de reutlizaci髇 de c骴igo. Son particularmente importantes en las bibliotecas de clases, ya que son el modo de factorizar y extraer el comportamiento com鷑 de las clases de la biblioteca.
-- Ventajas: Facilita el reuso de c骴igo, por eso es fundamental en muchos Frameworks.
+- Los m茅todos plantilla son una t茅cnica fundamental de reutlizaci贸n de c贸digo. Son particularmente importantes en las bibliotecas de clases, ya que son el modo de factorizar y extraer el comportamiento com煤n de las clases de la biblioteca.
+- Ventajas: Facilita el reuso de c贸digo, por eso es fundamental en muchos Frameworks.
 
 ## Ejemplo
-- Una operaci髇 de p磖estamo puede requerir diversos pasos para completarse.
+- Una operaci贸n de pr茅stamo puede requerir diversos pasos para completarse.
 	1. Verificar el balance bancario del cliente.
-	2. Comprobar la puntuaci髇 crediticia del cliente en 3 empresas.
-	3. Verificar otros pr閟tamos del cliente.
+	2. Comprobar la puntuaci贸n crediticia del cliente en 3 empresas.
+	3. Verificar otros pr茅stamos del cliente.
 	4. Revisar el stock de las acciones del cliente.
 	5. Revisar ingresos potenciales del cliente en el futuro.
