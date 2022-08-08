@@ -34,7 +34,7 @@ Los patrones pueden clasificarse según su proposito:
 *Gestionan algoritmos y responsabilidades entre objetos*
 - [Chain Of Responsability](https://github.com/nbordon/PatronesGOF/tree/master/PatronesGOF.ChainOfResponsability)
 - [Command](https://github.com/nbordon/PatronesGOF/tree/master/PatronesGOF.Command)
-- Interpreter
+- [Interpreter](https://github.com/nbordon/PatronesGOF/tree/master/PatronesGOF.Interpreter)
 - Iterator
 - Mediator
 - [Memento](https://github.com/nbordon/PatronesGOF/tree/master/PatronesGOF.Memento)
