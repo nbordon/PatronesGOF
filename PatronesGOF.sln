@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatronesGOF.ChainOfResponsa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatronesGOF.Interpreter", "PatronesGOF.Interpreter\PatronesGOF.Interpreter.csproj", "{ED7EDC82-EB77-48D7-8008-EF7B39641932}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatronesGOF.Iterator", "PatronesGOF.Iterator\PatronesGOF.Iterator.csproj", "{8D75495E-D18F-4758-AF52-6A8EAC3EF93E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{ED7EDC82-EB77-48D7-8008-EF7B39641932}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ED7EDC82-EB77-48D7-8008-EF7B39641932}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ED7EDC82-EB77-48D7-8008-EF7B39641932}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D75495E-D18F-4758-AF52-6A8EAC3EF93E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D75495E-D18F-4758-AF52-6A8EAC3EF93E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D75495E-D18F-4758-AF52-6A8EAC3EF93E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D75495E-D18F-4758-AF52-6A8EAC3EF93E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

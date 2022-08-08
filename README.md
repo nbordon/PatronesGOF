@@ -35,7 +35,7 @@ Los patrones pueden clasificarse según su proposito:
 - [Chain Of Responsability](https://github.com/nbordon/PatronesGOF/tree/master/PatronesGOF.ChainOfResponsability)
 - [Command](https://github.com/nbordon/PatronesGOF/tree/master/PatronesGOF.Command)
 - [Interpreter](https://github.com/nbordon/PatronesGOF/tree/master/PatronesGOF.Interpreter)
-- Iterator
+- [Iterator](https://github.com/nbordon/PatronesGOF/tree/master/PatronesGOF.Iterator)
 - Mediator
 - [Memento](https://github.com/nbordon/PatronesGOF/tree/master/PatronesGOF.Memento)
 - [Observer](https://github.com/nbordon/PatronesGOF/tree/master/PatronesGOF.Observer)
